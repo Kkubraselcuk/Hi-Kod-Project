@@ -33,12 +33,12 @@ root --> 7
 - solunda 1 olduğu için root artık 1'dir. 2 root(1)den büyük olduğu için root(1)'un soluna gelir 
 - solunda 3 olduğu için root artık 3' dür. 2 root(3) den küçük olduğu için root(3)un solunda bulunur.
 
-          7
-         / \
-        5   8
-       / \   \  
-      1   6   9
-     / \   
-    0   3 
+            7
+           / \
+          5   8
+         / \   \  
+        1   6   9
        / \
-      2   4  
+      0   3
+         / \
+        2   4  
